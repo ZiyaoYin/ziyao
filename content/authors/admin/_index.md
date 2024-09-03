@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - name: here is a line 
-  - icon: at-symbol
+  - icon: fa-envelope
     url: 'mailto:ziyao.yin@duke.edu'
     label: Email me
   # - icon: brands/x
