@@ -52,26 +52,26 @@ interests:
   - Robotics
 
 education:
-  - name: Education
-    - area: MEng Mechanical Engineering
-      institution: Duke University
-      date_start: 2023-09-01
-      date_end: 2024-12-12
-      summary: |
-        GPA: 3.71/4.0
+  - area: MEng Mechanical Engineering
+    institution: Duke University
+    date_start: 2023-09-01
+    date_end: 2024-12-12
+    summary: |
+      GPA: 3.71/4.0
 
-        Courses included:
-        - 
-    - area: BS Computer Science
-      institution: Rose-Hulman Institute of Technology
-      date_start: 2019-08-26
-      date_end: 2023-05-27
-      summary: |
-        Courses included:
-        - Network Security
-        - Artificial Intelligence
-  - name: Work
-    - position: Director of Cloud Infrastructure
+      Courses included:
+      - 
+  - area: BS Computer Science
+    institution: Rose-Hulman Institute of Technology
+    date_start: 2019-08-26
+    date_end: 2023-05-27
+    summary: |
+      Courses included:
+      - Network Security
+      - Artificial Intelligence
+
+work:
+  - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -82,20 +82,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - position: Backend Software Engineer
-      company_name: X
-      company_url: ''
-      company_logo: ''
-      date_start: 2016-01-01
-      date_end: 2020-12-31
-      summary: |
-        Responsibilities include:
-        - Migrated infrastructure to a new data center
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-work:
-  
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
