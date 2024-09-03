@@ -1,5 +1,5 @@
 ---
-title: Robotic Arm
+title: Robotic Arm Arcade
 date: 2023-11-26
 external_link: https://melon-snapper-c88.notion.site/Ziyao-Yin-579fa516e43c4e72a69142dd33e79e70?pvs=4
 tags:
