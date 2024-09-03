@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Ziyao Yin
+title: Ziyao Yin (Theodore)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ziyao
+last_name: Yin
 
 # Status emoji
 status:
