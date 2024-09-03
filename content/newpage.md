@@ -20,5 +20,5 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
 ---
