@@ -1,7 +1,7 @@
 ---
 title: Pandas
 date: 2023-10-26
-external_link: randompage/
+external_link: ''
 tags:
   - Hugo
   - Wowchemy
