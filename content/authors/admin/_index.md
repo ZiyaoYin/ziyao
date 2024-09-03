@@ -26,12 +26,12 @@ role: Master Student
 organizations:
   - name: Duke University
     url: https://duke.edu/
+  - name: cell
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - name: here is a line 
-  - icon: fa-envelope
+  - icon: envelope
     url: 'mailto:ziyao.yin@duke.edu'
     label: Email me
   # - icon: brands/x
