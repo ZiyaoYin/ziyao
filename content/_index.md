@@ -30,6 +30,17 @@ sections:
     #       size: cover
     #       position: center
     #       parallax: false
+  - block: collection
+    id: project
+    content:
+      title: Project
+      filters:
+        folders:
+          - project
+        featured_only: true
+        design:
+          view: article-grid
+          columns: 3
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
