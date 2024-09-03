@@ -20,17 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 
-  - name: Duke University
-      url: https://duke.edu/
-  - name: Master Student
-    url: https://duke.edu/
+role: Master Student @ Duke University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Duke University
-    url: https://duke.edu/
-  - name: cell
+  - name: 'Email: ziyao.yin@duke.edu'
+  - name: 'Cell: +1 (812) 391-5775'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
