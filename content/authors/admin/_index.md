@@ -52,7 +52,7 @@ interests:
   - Robotics
 
 education:
-  - area: MEng Mechanical Engineering
+  - area: MEng Mechanical Engineering, 2024
     institution: Duke University
     date_start: 2023-09-01
     date_end: 2024-12-12
@@ -61,7 +61,7 @@ education:
 
       Courses included:
       - 
-  - area: BS Computer Science
+  - area: BS Computer Science, 2023
     institution: Rose-Hulman Institute of Technology
     date_start: 2019-08-26
     date_end: 2023-05-27
