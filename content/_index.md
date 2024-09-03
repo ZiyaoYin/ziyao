@@ -18,18 +18,18 @@ sections:
       button:
         text: Download Resume
         url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: blue
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 0.7
-          size: cover
-          position: center
-          parallax: false
+    # design:
+    #   css_class: dark
+    #   background:
+    #     color: blue
+    #     image:
+    #       # Add your image background to `assets/media/`.
+    #       filename: ''
+    #       filters:
+    #         brightness: 0.7
+    #       size: cover
+    #       position: center
+    #       parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
