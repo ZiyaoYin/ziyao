@@ -169,7 +169,7 @@ awards:
 ---
 
 ## About Me
-**<em>I am actively pursuing a full-time Job after graduation December 2024.</em>**
+**<em>I am actively pursuing a full-time Job after graduation December 2024.</em>** <br>
 I'm Ziyao Yin, an engineer with a strong foundation in Computer Science from Rose-Hulman Institute of Technology and advanced expertise in robotics and autonomous systems from Duke University. My projects range from DDoS mitigation research to developing an interactive robot arm game and an Machine Learning aircraft orientation system, demonstrate my proficiency in leading the creation of innovative tech solutions. I'm passionate about leveraging technology to improve user experiences and efficiency, actively seeking opportunities to apply my skills in robotics, AI, and software development to contribute to new and innovative advancements in the field.
 
 Outside of academics, my zeal for diving, travel, and photography fuels my creative thinking and problem-solving skills, allowing me to generate unique perspectives and fresh ideas.
