@@ -1,8 +1,11 @@
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+<footer>
+    <p>© {{ now.Year }} Me. This work is licensed under {{ .Site.Params.footer.copyright.license }}</p>
+    {{ if .Site.Params.footer.copyright.license.enable }}
+      <p>License: 
+        {{ if .Site.Params.footer.copyright.license.allow_derivatives }}Allow Derivatives, {{ end }}
+        {{ if .Site.Params.footer.copyright.license.share_alike }}Share Alike, {{ end }}
+        {{ if .Site.Params.footer.copyright.license.allow_commercial }}Allow Commercial Use{{ else }}Non-Commercial{{ end }}
+      </p>
+    {{ end }}
+  </footer>
+  
