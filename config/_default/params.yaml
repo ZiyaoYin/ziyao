@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: dark
+  color: green
 
 # SEO
 # marketing:
