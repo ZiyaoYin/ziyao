@@ -18,10 +18,10 @@ sections:
       button:
         text: Download Resume
         url: uploads/resume.pdf
-    design:
-      css_class: dark
-      # background:
-      #   color: black
+    # design:
+    #   css_class: dark
+    #   background:
+    #     color: black
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
