@@ -12,7 +12,7 @@ sections:
       title: 'UR5e Robot Arm Arcade Game'
       subtitle: 'ME 555: Intro to Robotics'
       text: |-
-        ![UR5e Robot arm and Me](https://prod-files-secure.s3.us-west-2.amazonaws.com/f182da4c-40b7-4bec-a266-0eff4ff79e72/c6a82908-7d20-4d23-b29e-eca98247d1cc/IMG_4257.heic)
+        ![UR5e Robot arm and Me](//assets/media/icon.png)
 
         UR5e Robot arm and Me
 
