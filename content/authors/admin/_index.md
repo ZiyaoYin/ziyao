@@ -78,28 +78,30 @@ education:
       - **Mechatronic:** Mechatronic Systems
       - **Advanced Classes:** Artificial Intelligence, Software Requirements Engineering, Software Design, Programming Language Concepts
 work:
-  # - position: Director of Cloud Infrastructure
-  #   company_name: GenCoin
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2021-01-01
-  #   date_end: ''
-  #   summary: |2-
-  #     Responsibilities include:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Senior Research Project - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook) Fall 2022-Spring 2023
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2023-05-27
+    summary: |2-
+      - Introduced a countermeasure the combination of cryptographic challenges and network filtering in mitigating volumetric DDoS attacks. Simulated and analyzed proposed solutions using MergeTB and automated process using Ansible-playbook
+      - Implemented network filtering solution (IPtables), capability cryptographic challenges solution in mitigating simulated DDoS attack, Revitalized open-source client puzzle solution to C, C++ code. Created foundation for further research in our study
+      - Presented our work in Purdue for the 25th annual CERIAS Security Symposium student poster presentation segment https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
+      - \href{https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing}{Research Poster}
+      - https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
+      - [‣https://tinyurl.com/2565nz4b](https://tinyurl.com/2565nz4b)
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
