@@ -105,9 +105,9 @@ skills:
   - name: Technical Skills
     items:
       - name: Flutter Dart
-          description: ''
-          percent: 80
-          icon: code-bracket
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: Java 
         description: ''
         percent: 80
