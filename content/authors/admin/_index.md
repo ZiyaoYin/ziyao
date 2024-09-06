@@ -61,7 +61,7 @@ education:
 
       Courses included:
         - **Robotics**: Robot Learning, Advanced Robotics, Intro to Medical Robotics and Surgical Technologies
-        - **Control System**: Model Predictive Control
+        - **Control Theory**: Model Predictive Control
         - **Machine Learning**: Data Science & Machine Learning Application in Science and Engineer
         - **Manufacture**: Advanced Design and Manufacture
 
@@ -72,9 +72,11 @@ education:
     summary: |
       Courses included:
       - **Algorithm:** Data Structures \& Algorithm Analysis, Design \& Analysis of Algorithms, Theory of Computation
-      - **Web App:** iOS App Development, Cross-Platform Mobil Development, Web Programming, Database Systems (SQL)
+      - **Web/Mobile App:** iOS App Development, Cross-Platform Mobile Development, Web Programming, Database Systems (SQL)
       - **OS related:** Computer Architecture I & II, Operating Systems
-      - **Advanced Classes:** Programming Language Concepts, Artificial Intelligence, Computer Networks, Foundations of Cybersecurity, Network Security, Software Requirements Engineering, Software Design, Mechatronic Systems
+      - **Networks:** Computer Networks, Network Security, Foundations of Cybersecurity
+      - **Mechatronic:** Mechatronic Systems
+      - **Advanced Classes:** Artificial Intelligence, Software Requirements Engineering, Software Design, Programming Language Concepts
 work:
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
