@@ -122,6 +122,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Swift
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: CAD
         description: ''
         percent: 100
