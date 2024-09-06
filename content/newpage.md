@@ -12,8 +12,8 @@ sections:
       title: 'UR5e Robot Arm Arcade Game'
       subtitle: 'ME 555: Intro to Robotics'
       text: |-
-        ![UR5e Robot arm and Me](//assets/media/icon.png)
-
+        ![UR5e Robot arm and Me](//assets/media/icon.png "some img")
+        ![alt txt](//assets/media/icon.png "some img")
         UR5e Robot arm and Me
 
         Important tasks involved in this project include:
