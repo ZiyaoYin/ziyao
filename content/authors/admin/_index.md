@@ -78,7 +78,7 @@ education:
       - **Mechatronic:** Mechatronic Systems
       - **Advanced Classes:** Artificial Intelligence, Software Requirements Engineering, Software Design, Programming Language Concepts
 work:
-  - position: Senior Research Project - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook)
+  - position: Senior Research - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook)
     company_name: Rose-Hulman Institute of Technology 
     company_url: ''
     company_logo: ''
