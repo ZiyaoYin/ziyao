@@ -78,8 +78,8 @@ education:
       - **Mechatronic:** Mechatronic Systems
       - **Advanced Classes:** Artificial Intelligence, Software Requirements Engineering, Software Design, Programming Language Concepts
 work:
-  - position: Senior Research Project - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook) Fall 2022-Spring 2023
-    company_name: GenCoin
+  - position: Senior Research Project - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook)
+    company_name: Rose-Hulman Institute of Technology 
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
@@ -90,17 +90,16 @@ work:
       - Presented our work in Purdue for the 25th annual CERIAS Security Symposium student poster presentation segment https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
   
 
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Software Development Intern (ASP.NET, Typescript, C#, SQL, Micro-service API)
+    company_name: Rose-Hulman Ventures
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2023-03-22
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and implemented user-friendly UI/UX for a front-end webpage, enhancing navigability and visual appeal
+      - Created new full-stack infrastructure and micro-services API that allows the users to validate entries with database
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
