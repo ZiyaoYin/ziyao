@@ -1,12 +1,17 @@
 ---
 title: Robotic Arm Arcade
 date: 2023-11-26
-external_link: ''
+external_link: 'ziyao/project/robotic_arm/'
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: true  # Show comments?
 tags:
   - Duke
   - Robotics
   - Mechanical Engineering
 ---
+
 
 To illustrate our knowledge of robot control and hardware design we learned this semester, our team has  engineered an  arcade game featuring an UR5e robotic arm.
 
