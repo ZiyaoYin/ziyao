@@ -12,7 +12,7 @@ tags:
   - Mechanical Engineering
 ---
 
-
+## Introduction
 To illustrate our knowledge of robot control and hardware design we learned this semester, our team has  engineered an  arcade game featuring an UR5e robotic arm.
 
 *[TODO: put an image here]*
