@@ -60,15 +60,17 @@ education:
       GPA: 3.71/4.0
 
       Courses included:
-      - 
+        Robot Learning, Advanced Robotics, Intro to Medical Robotics and Surgical Technologies, Modeld Predictive Control, Advanced Design and 
+        Manufacture Skills, Data Science & Machine Learning Application in Science and Engineering
+
   - area: BS Computer Science, 2023
     institution: Rose-Hulman Institute of Technology
     date_start: 2019-08-26
     date_end: 2023-05-27
     summary: |
       Courses included:
-      - Network Security
-      - Artificial Intelligence
+
+      - **Algorithm:** Data Structures \& Algorithm Analysis, Design \& Analysis of Algorithms, Theory of Computation
 
 work:
   # - position: Director of Cloud Infrastructure
