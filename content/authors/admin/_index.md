@@ -88,9 +88,8 @@ work:
       - Introduced a countermeasure the combination of cryptographic challenges and network filtering in mitigating volumetric DDoS attacks. Simulated and analyzed proposed solutions using MergeTB and automated process using Ansible-playbook
       - Implemented network filtering solution (IPtables), capability cryptographic challenges solution in mitigating simulated DDoS attack, Revitalized open-source client puzzle solution to C, C++ code. Created foundation for further research in our study
       - Presented our work in Purdue for the 25th annual CERIAS Security Symposium student poster presentation segment https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
-      - \href{https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing}{Research Poster}
-      - https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
-      - [‣https://tinyurl.com/2565nz4b](https://tinyurl.com/2565nz4b)
+  
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
