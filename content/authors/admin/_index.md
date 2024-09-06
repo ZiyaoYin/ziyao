@@ -60,8 +60,10 @@ education:
       GPA: 3.71/4.0
 
       Courses included:
-        Robot Learning, Advanced Robotics, Intro to Medical Robotics and Surgical Technologies, Modeld Predictive Control, Advanced Design and 
-        Manufacture Skills, Data Science & Machine Learning Application in Science and Engineering
+        - **Robotics**: Robot Learning, Advanced Robotics, Intro to Medical Robotics and Surgical Technologies
+        - **Control System**: Model Predictive Control
+        - **Machine Learning**: Data Science & Machine Learning Application in Science and Engineer
+        - **Manufacture**: Advanced Design and Manufacture
 
   - area: BS Computer Science, 2023
     institution: Rose-Hulman Institute of Technology
@@ -69,9 +71,10 @@ education:
     date_end: 2023-05-27
     summary: |
       Courses included:
-
       - **Algorithm:** Data Structures \& Algorithm Analysis, Design \& Analysis of Algorithms, Theory of Computation
-
+      - **Web App:** iOS App Development, Cross-Platform Mobil Development, Web Programming, Database Systems (SQL)
+      - **OS related:** Computer Architecture I & II, Operating Systems
+      - **Advanced Classes:** Programming Language Concepts, Artificial Intelligence, Computer Networks, Foundations of Cybersecurity, Network Security, Software Requirements Engineering, Software Design, Mechatronic Systems
 work:
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
@@ -101,11 +104,19 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Flutter Dart
+          description: ''
+          percent: 80
+          icon: code-bracket
       - name: Java 
         description: ''
         percent: 80
         icon: code-bracket
       - name: Python 
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: ROS & ROS2
         description: ''
         percent: 80
         icon: code-bracket
