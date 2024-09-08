@@ -78,16 +78,16 @@ education:
       - **Mechatronic:** Mechatronic Systems
       - **Advanced Classes:** Artificial Intelligence, Software Requirements Engineering, Software Design, Programming Language Concepts
 work:
-  - position: Senior Research - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook)
-    company_name: Rose-Hulman Institute of Technology 
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-09-01
-    date_end: 2023-05-27
-    summary: |2-
-      - Introduced a countermeasure the combination of cryptographic challenges and network filtering in mitigating volumetric DDoS attacks. Simulated and analyzed proposed solutions using MergeTB and automated process using Ansible-playbook
-      - Implemented network filtering solution (IPtables), capability cryptographic challenges solution in mitigating simulated DDoS attack, Revitalized open-source client puzzle solution to C, C++ code. Created foundation for further research in our study
-      - Presented our work in Purdue for the 25th annual CERIAS Security Symposium student poster presentation segment https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
+  # - position: Senior Research - DDoS Mitigation using Capability Puzzles (Python, C\#, MergeTB, Ansible-playbook)
+  #   company_name: Rose-Hulman Institute of Technology 
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2022-09-01
+  #   date_end: 2023-05-27
+  #   summary: |2-
+  #     - Introduced a countermeasure the combination of cryptographic challenges and network filtering in mitigating volumetric DDoS attacks. Simulated and analyzed proposed solutions using MergeTB and automated process using Ansible-playbook
+  #     - Implemented network filtering solution (IPtables), capability cryptographic challenges solution in mitigating simulated DDoS attack, Revitalized open-source client puzzle solution to C, C++ code. Created foundation for further research in our study
+  #     - Presented our work in Purdue for the 25th annual CERIAS Security Symposium student poster presentation segment https://drive.google.com/file/d/10z7tEbfJ6tqTkTCKULyJA409hLKPAPUw/view?usp=sharing
   
 
   - position: Software Development Intern (ASP.NET, Typescript, C#, SQL, Micro-service API)
@@ -98,8 +98,8 @@ work:
     date_end: 2023-03-22
     summary: |
       Responsibilities include:
-      - Designed and implemented user-friendly UI/UX for a front-end webpage, enhancing navigability and visual appeal
-      - Created new full-stack infrastructure and micro-services API that allows the users to validate entries with database
+      - Side notes: Implemented notes page attached to each individual webpage that allows user to take notes in current page
+      - Report Page: Created new web page to allow multiple account creation in database; Created new full-stack infrastructure that allows the customer to file invalid check entries with existing checks in the system
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
