@@ -1,7 +1,7 @@
 ---
 title: Robotic Arm Arcade
 date: 2023-11-26
-external_link: ''
+external_link: 'https://melon-snapper-c88.notion.site/Ziyao-Yin-579fa516e43c4e72a69142dd33e79e70?pvs=74'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
