@@ -15,8 +15,7 @@ tags:
 ## Introduction
 To illustrate our knowledge of robot control and hardware design we learned this semester, our team has  engineered an  arcade game featuring an UR5e robotic arm.
 
-{{< figure src="static/images/arm_me.png" title="UR5e Robot Arm and Me" >}}
-![UR5e Robot Arm and Me](static/images/arm_me.png) 
+{{< blox-img src="/images/arm_me.png" alt="UR5e Robot Arm and Me" caption="UR5e Robot Arm and Me" >}}![UR5e Robot Arm and Me](static/images/arm_me.png) 
 UR5e Robot arm and Me
 
 Important tasks involved in this project include:
