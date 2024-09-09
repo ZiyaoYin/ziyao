@@ -12,4 +12,4 @@ tags:
   - Computer Science
 ---
 
-We just updated our [Docs Contribution Guide](https://corssplat-finalproject.web.app)!
+Here is the link to the crossplatform app [Rose Market](https://corssplat-finalproject.web.app)!
