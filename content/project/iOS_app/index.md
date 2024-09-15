@@ -1,6 +1,6 @@
 ---
 title: Zone (iOS, Swift, Firebase)
-date: 2023-11-26
+date: 2021-08-10
 external_link: 'https://rosehulmanprojectvault.org/project/-Mc7VcS_Rzo8CE6aTdq8'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
