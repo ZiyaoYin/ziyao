@@ -1,6 +1,6 @@
 ---
 title: Automated Vision Inspection System 
-date: 2024-12-10
+date: 2024-09-10
 external_link: ''
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
