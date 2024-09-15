@@ -1,7 +1,7 @@
 ---
 title: Rose Market (Flutter Dart, Firebase)
 date: 2023-11-26
-external_link: ''
+external_link: 'https://rosehulmanprojectvault.org/project/-NO4b1wwmaERKy94Ji_J'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
