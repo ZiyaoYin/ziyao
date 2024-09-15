@@ -24,14 +24,15 @@ role: Master Student @ Duke University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'Email: ziyao.yin@duke.edu'
+  - name: 'Professional Email: ziyao.yin@duke.edu'
+  - name: 'Personal Email: ziyao.yin1@gmail.com'
   - name: 'Cell: +1 (812) 391-5775'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:ziyao.yin@duke.edu'
+    url: 'mailto:ziyao.yin1@gmail.com'
     label: Email me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
