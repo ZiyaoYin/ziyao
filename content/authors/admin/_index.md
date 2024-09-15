@@ -48,7 +48,6 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Full Stack Engineering
   - Artificial Intelligence
   - Robotics
 
