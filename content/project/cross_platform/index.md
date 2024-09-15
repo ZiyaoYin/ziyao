@@ -12,4 +12,5 @@ tags:
   - Computer Science
 ---
 
-Here is the link to the crossplatform app [Rose Market](https://corssplat-finalproject.web.app)!
+Developed and published a cross-platform marketplace application (Web, Android, iOS) using Flutter Dart and Firebase, designed to facilitate seamless buying and selling of products. Implemented features such as product listing with images, dynamic updates, and user-specific authentication to secure access and enhance user experience.
+Enhanced user engagement by integrating automated email notifications for new product listings and user interactions. Developed a custom backend using Firebase to store and manage data efficiently.
