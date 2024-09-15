@@ -63,7 +63,7 @@ education:
         - **Robotics**: Robot Learning, Advanced Robotics, Intro to Medical Robotics and Surgical Technologies
         - **Control Theory**: Model Predictive Control
         - **Machine Learning**: Data Science & Machine Learning Application in Science and Engineer
-        - **Manufacture**: Advanced Design and Manufacture
+        - **Manufacture**: Advanced Design and Manufacture, Experiment Desigh and Research Tools
 
   - area: BS Computer Science, 2023
     institution: Rose-Hulman Institute of Technology
