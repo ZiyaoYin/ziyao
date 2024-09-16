@@ -1,7 +1,7 @@
 ---
 title: Automated Vision Inspection System 
 date: 2024-09-10
-external_link: '/ziyao/project/robot_learning/'
+external_link: '/ziyao/project/automated_vision/'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
