@@ -98,10 +98,19 @@ work:
     date_end: 2023-03-22
     summary: |
       Responsibilities include:
-      - **Implemented a Dynamic Notes Feature:** Developed a notes page feature for each individual webpage, allowing users to take and save notes directly on the page they are viewing, increasing user engagement by 20\%
+      - **Implemented a Dynamic Notes Feature:** Developed a notes page feature for each individual webpage, allowing users to take and save notes directly on the page they are viewing, increasing user engagement by 18\%
       - **Created a Comprehensive Report Page:** Designed and implemented a new web page enabling multiple account creations within the database, which improved the account setup process efficiency
-      - **Developed Full-Stack Infrastructure for Check Validation:** Built a full-stack infrastructure, including front-end and back-end components, to allow customers to file and manage invalid check entries against existing checks in the system. This solution improved the overall check validation workflow efficiency by 35\%
-
+      - **Developed Full-Stack Infrastructure for Check Validation:** Built a full-stack infrastructure, including front-end and back-end components, to allow customers to file and manage invalid check entries against existing checks in the system. This solution improved the overall check validation workflow efficiency by 21\%
+  - position: Teaching Assistant, Intro to Robotics and Automation
+    company_name: Duke University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-26
+    date_end: 2024-12-10
+    summary: |
+      Responsibilities include:
+      - Supported lab sessions by assisting students in developing and implementing algorithms for robot control and perception using ROS 2, Python, and C, aligning with course objectives, including kinematics, dynamics, and robot motion planning
+      - Guided students in hands-on projects involving the construction and programming of robots, providing one-on-one support for debugging code, understanding control systems, and integrating software and hardware components
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
