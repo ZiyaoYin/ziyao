@@ -128,6 +128,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: C/C++ 
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: ROS & ROS2
         description: ''
         percent: 80
