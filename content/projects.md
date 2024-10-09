@@ -2,6 +2,7 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+external_link: '/ziyao/project/'
 
 design:
   # Section spacing
