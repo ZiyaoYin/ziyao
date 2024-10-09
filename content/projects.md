@@ -4,21 +4,21 @@ date: 2024-05-19
 type: landing
 external_link: '/ziyao/project/'
 
-# design:
-#   # Section spacing
-#   spacing: '5rem'
+design:
+  # Section spacing
+  spacing: '5rem'
 
-# # Page sections
-# sections:
-#   - block: collection
-#     content:
-#       title: Projects
-#       text: Here are projects that I have worked on over the years.
-#       filters:
-#         folders:
-#           - project
-#     design:
-#       view: article-grid
-#       fill_image: false
-#       columns: 2
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Projects
+      text: Here are projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
 ---
