@@ -12,3 +12,4 @@ tags:
   - CAD design
 ---
 
+![trying with img](/ziyao/static/images/arm_me.png)
