@@ -13,3 +13,4 @@ tags:
 ---
 
 ![trying with img](/static/images/arm_me.png)
+<img src="/static/images/arm_me.png" alt="Description of the image" style="width:100%; max-width:600px;">
