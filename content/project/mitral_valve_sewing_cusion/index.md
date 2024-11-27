@@ -1,15 +1,16 @@
 ---
 title: Robotic Arm Arcade
 date: 2023-11-26
-external_link: 'https://ur5eroboticarm.notion.site'
+external_link: 'https://mitralvalvesewingcusion.notion.site'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: true  # Show comments?
 tags:
-  - Duke
-  - Robotics
-  - Mechanical Engineering
+  - Duke University
+  - Fusion 360
+  - CAD design
+  - Medical Device
 ---
 
 ## Introduction
