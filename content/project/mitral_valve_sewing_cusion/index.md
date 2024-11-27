@@ -1,5 +1,5 @@
 ---
-title: Robotic Arm Arcade
+title: Patient-Specific Mitral Valve Sewing Cushion Design
 date: 2024-11-06
 external_link: 'https://mitralvalvesewingcusion.notion.site'
 reading_time: false  # Show estimated reading time?

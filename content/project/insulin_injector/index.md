@@ -1,5 +1,5 @@
 ---
-title: Robotic Arm Arcade
+title: Redesign Insulin Injector
 date: 2024-11-06
 external_link: 'https://insulininjector.notion.site'
 reading_time: false  # Show estimated reading time?

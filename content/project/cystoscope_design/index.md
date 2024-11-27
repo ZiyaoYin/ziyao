@@ -1,5 +1,5 @@
 ---
-title: Cystoscope Design
+title: Green Light Cystoscope Design
 date: 2024-10-09
 external_link: 'https://greenlightcystoscope.notion.site'
 reading_time: false  # Show estimated reading time?
