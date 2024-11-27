@@ -1,6 +1,6 @@
 ---
 title: Robotic Arm Arcade
-date: 2023-11-26
+date: 2024-11-06
 external_link: 'https://mitralvalvesewingcusion.notion.site'
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
